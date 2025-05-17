@@ -1,7 +1,8 @@
 streamlit
-optuna
-imbalanced-learn
-scikit-learn
 pandas
 numpy
-
+matplotlib
+scikit-learn
+xgboost
+optuna
+imbalanced-learn
